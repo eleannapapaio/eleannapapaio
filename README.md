@@ -1,5 +1,6 @@
 ### 💫 About Me:
 I am a computer science student in Aristotle University of Thessaloniki, currentnly on my second year. I am verry passionate about various computer science domains, such as machine learning, data science, statistics and aerospace engineering. I am particularly interested in fairness and bias in AI and in computational statistics methods. I would like to gain more experience and experitse on AI and machine learning, get involved in relevant courses, summer schools, conferences and projects! 
+
 Moreover, I am Spacedot member, and currently working on the ADCS subsystem, as the testing lead. You can checkout more about this project on [Gitlab](https://gitlab.com/eleannap).
 
 In my free time I enjoy playing basketball and the piano.
