@@ -5,7 +5,7 @@ Moreover, I am Spacedot member, and currently working on the ADCS subsystem, as 
 In my free time I enjoy playing basketball and the piano.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/eleanna-papaioannou-231bb3303/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/eleanna-papaioannou-231bb3303/)
 
 ---
 
