@@ -1,7 +1,7 @@
 ### 💫 About Me:
-I am a computer science student in Aristotle University of Thessaloniki, currentnly on my second year. I am verry passionate about various computer science domains, such as machine learning, data science, statistics and aerospace engineering. I am particularly interested in fairness and bias in AI and in computational statistics methods. I would like to gain more experience and experitse on AI and machine learning, get involved in relevant courses, summer schools, conferences and projects! 
+I am a computer science student in Aristotle University of Thessaloniki, currentnly on my third year. I am very passionate about artificial intelligence and machine learning, data science and statistics. I am particularly interested in federated learning, fairness and bias in AI and in computational statistics methods. I would like to gain more experience and experitse on AI and machine learning, get involved in relevant courses, summer schools, conferences and projects! 
 
-Moreover, I am Spacedot member, and currently working on the ADCS subsystem, as the testing lead. You can checkout more about this project on [Gitlab](https://gitlab.com/eleannap).
+Moreover, as a Spacedot member, I was working on the ADCS subsystem, as the testing lead. You can checkout more about this project on [Gitlab](https://gitlab.com/eleannap).
 
 In my free time I enjoy playing basketball and the piano.
 
@@ -31,16 +31,7 @@ In my free time I enjoy playing basketball and the piano.
 
 ---
 
-## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eleannapapaio&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleannapapaio&layout=compact&theme=dark)
-
----
-
-## 🔥 GitHub Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eleannapapaio&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
